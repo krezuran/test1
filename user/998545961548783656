@@ -1,9 +1,9 @@
 {
   "user": {
-    "id": "782768828026847272",
-    "username": "derbederrrr",
-    "global_name": "derbederrrr",
-    "avatar": "10a1fc76b2729c93e0e9749fec3764de",
+    "id": "998545961548783656",
+    "username": "krezuran",
+    "global_name": "krezuran",
+    "avatar": "998545961548783656",
     "avatar_decoration_data": null,
     "discriminator": "0",
     "public_flags": 0,
@@ -48,20 +48,8 @@
       "link": "https://discord.com/settings/premium"
     },
     {
-      "id": "guild_booster_lvl3",
-      "description": "Active Developer",
-      "icon": "aktif",
-      "link": "https://discord.com/settings/premium"
-    },
-    {
-      "id": "quest_completed",
-      "description": "Server boosting since May 16, 2024",
-      "icon": "4seviye",
-      "link": "https://discord.com/discovery/quests"
-    },
-    {
       "id": "hypesquad_house_1",
-      "description": "Originally known as maymuncan#7724 ",
+      "description": "Originally known as Baytar#4513 ",
       "icon": "eski",
       "link": "https://discord.com/settings/hypesquad-online"
     }

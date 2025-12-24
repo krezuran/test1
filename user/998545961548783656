@@ -24,7 +24,7 @@
 
     },
     {
-      "type": "steam",
+      "type": "domain",
       "id": "krezuran",
       "name": "krezuran",
       "verified": true,

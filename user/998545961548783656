@@ -18,17 +18,19 @@
   "connected_accounts": [
     {
       "type": "domain",
+      "id": "krezuran.github.io",
+      "name": "krezuran.github.io",
+      "verified": true,
+
+    },
+    {
+      "type": "steam",
       "id": "krezuran",
       "name": "krezuran",
       "verified": true,
       "icon": "steam",
-      "link": https://steamcommunity.com/profiles/76561199228344070/"
-    },
-    {
-      "type": "steam",
-      "id": "krezuran.github.io",
-      "name": "krezuran.github.io",
-      "verified": true}
+      "link": "https://steamcommunity.com/profiles/76561199228344070/"
+    }
   ],
   "premium_since": "2024-09-17T08:01:55.989879+00:00",
   "premium_type": 2,
